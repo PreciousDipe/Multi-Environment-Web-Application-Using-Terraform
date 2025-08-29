@@ -1,0 +1,5 @@
+# Local state & junk
+**/.terraform/*
+**/.terraform.lock.hcl
+**/terraform.tfstate
+
